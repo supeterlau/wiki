@@ -18,6 +18,8 @@ https://github.com/codesandbox/codesandbox-client An online IDE for rapid web de
 
 https://github.com/codemirror/CodeMirror In-browser code editor
 
+https://github.com/ianstormtaylor/slate A completely customizable framework for building rich text editors. (Currently in beta.)
+
 https://github.com/codesandbox/ot_ex an implementation of operational transformation for strings (Elixir)
 
 ## Cloud
