@@ -16,6 +16,8 @@ https://github.com/zyedidia/micro A modern and intuitive terminal-based text edi
 
 https://github.com/codesandbox/codesandbox-client An online IDE for rapid web development
 
+https://github.com/codemirror/CodeMirror In-browser code editor
+
 https://github.com/codesandbox/ot_ex an implementation of operational transformation for strings (Elixir)
 
 ## Cloud
