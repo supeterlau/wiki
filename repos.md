@@ -1,45 +1,263 @@
-## Protocol
+## API Client 
 
-https://github.com/microsoft/msquic
+https://github.com/developit/redaxios The Axios API, as an 800 byte Fetch wrapper. 
 
-## Game
+## API 
 
-https://github.com/tobspr/shapez.io
+https://github.com/listen1 Music API 
 
-## Diagram
+## Admin Panel 
 
-https://github.com/excalidraw/excalidraw Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/aesmail/kaffy Powerfully simple admin package for phoenix applications 
 
-## Editor
+## Asynchronous
 
-https://github.com/zyedidia/micro A modern and intuitive terminal-based text editor
+https://github.com/microsoft/coyote A set of libraries and tools for building reliable asynchronous software.
 
-https://github.com/codesandbox/codesandbox-client An online IDE for rapid web development
 
-https://github.com/codemirror/CodeMirror In-browser code editor
+## Bundler 
 
-https://github.com/ianstormtaylor/slate A completely customizable framework for building rich text editors. (Currently in beta.)
+https://github.com/pikapkg/snowpack A faster dev environment for modern web apps 
 
-https://github.com/codesandbox/ot_ex an implementation of operational transformation for strings (Elixir)
+https://github.com/parcel-bundler/parcel 📦🚀 Blazing fast, zero configuration web application bundler 
 
-## Cloud
+## CMS 
 
-https://github.com/dragonflyoss/Dragonfly Dragonfly is an intelligent P2P based image and file distribution system
+### headless 
 
-## Database
+https://github.com/webiny/webiny-js Platform for building serverless applications and API (Node.js, React, GraphQL) 
 
-https://github.com/etcd-io/etcd Distributed reliable key-value store for the most critical data of a distributed system
+## CMS 
 
-## GraphQL
+https://github.com/tinacms/tinacms Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js) 
 
-https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for Absinthe WS-based operations
+## Cloud 
 
-## Proxy
+https://github.com/dragonflyoss/Dragonfly Dragonfly is an intelligent P2P based image and file distribution system 
 
-https://github.com/v2ray/v2ray-core A platform for building proxies to bypass network restrictions
+## Comment 
 
-https://github.com/Cenmrev/V2RayX GUI for v2ray-core on macOS
+https://github.com/utterance/utterances A lightweight comments widget built on GitHub issues 
 
-## Demo
+## Database 
 
-https://github.com/huangruiLearn/flutter_hrlweibo Flutter 仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
+https://github.com/dgraph-io/dgraph Fast, Distributed Graph Database 
+
+https://dgraph.io/ 
+
+https://github.com/dgraph-io/badger Fast key-value DB in Go.  
+
+https://github.com/fastio/1store NoSQL data store using the SEASTAR framework, compatible with Redi 
+
+https://github.com/etcd-io/etcd Distributed reliable key-value store for the most critical data of a distributed system 
+
+## Demo 
+
+https://github.com/huangruiLearn/flutter_hrlweibo Flutter 仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块 
+
+https://github.com/cyclejs/cyclejs A functional and reactive JavaScript framework for predictable code 
+
+https://github.com/staltz/xstream An extremely intuitive, small, and fast functional reactive stream library for JavaScript 
+
+## Diagram 
+
+https://github.com/excalidraw/excalidraw Virtual whiteboard for sketching hand-drawn like diagrams 
+
+## Document 
+
+https://github.com/kamranahmedse/developer-roadmap developer-roadmap 
+
+https://github.com/rstacruz/cheatsheets cheatsheets 
+
+https://github.com/junaid33/opensource.builders Find open-source alternatives 
+
+## Documentation 
+
+https://github.com/mkdocs/mkdocs/ 
+
+https://www.mkdocs.org/ Project documentation with Markdown 
+
+https://github.com/rstacruz/flatdoc Build sites fast from Markdown 
+
+https://github.com/slatedocs/slate Beautiful static documentation for your API 
+
+https://github.com/rust-lang/mdBook GitBook in Rust
+https://github.com/hackmdio/codimd CodiMD - Realtime collaborative markdown notes on all platforms.
+  https://hackmd.io/home
+
+## Editor 
+
+### In Browser 
+
+https://github.com/prosemirror A toolkit for building rich-text editors on the web
+
+https://github.com/codemirror/codemirror.next The next generation of the CodeMirror in-browser editor
+
+https://github.com/facebook/draft-js A React framework for building text editors.  
+
+https://github.com/benweet/stackedit.js Add StackEdit to any website 
+
+https://github.com/microsoft/monaco-editor A browser based code editor 
+
+https://github.com/codesandbox/codesandbox-client An online IDE for rapid web development 
+
+https://github.com/codemirror/CodeMirror In-browser code editor 
+
+https://github.com/ianstormtaylor/slate A completely customizable framework for building rich text editors. (Currently in beta.) 
+
+https://github.com/cdr/code-server VS Code in the browser 
+
+https://github.com/lyricat/code-knack CodeMirror Based 
+
+https://github.com/viebel/klipse CodeMirror Based 
+
+### Out Browser 
+
+https://github.com/cdr/sshcode Run VS Code on any server over SSH.  
+
+https://github.com/zyedidia/micro A modern and intuitive terminal-based text editor 
+
+https://github.com/remacs/remacs Rust ❤️ Emacs A community-driven port of Emacs to Rust
+
+https://github.com/onivim/oni2 Native, lightweight modal code editor (Onivim 2 is a reimagination of the Oni editor. Onivim 2 aims to bring the speed of Sublime, the language integration of VSCode, and the modal editing experience of Vim together, in a single package.)
+
+### Library 
+
+https://github.com/codesandbox/ot_ex an implementation of operational transformation for strings (Elixir) 
+
+## Forum
+
+https://github.com/forem/forem For empowering community 🌱
+
+## Frontend Framework
+
+### CSS
+
+### JavaScript
+
+(surplus-v0.5.3-keyed	sinuous-v0.15.1-keyed	stage0-v0.0.2-keyed	solid-v0.17.2-keyed)
+
+https://github.com/adamhaile/surplus High performance JSX web views for S.js applications
+https://github.com/adamhaile/S S.js - Simple, Clean, Fast Reactive Programming in Javascript
+
+https://github.com/luwes/sinuous 🧬 Light, fast, reactive UI library
+
+https://github.com/Freak613/stage0 Collection of low-level DOM tools for building high performant web interfaces
+https://github.com/Freak613/domc DOM compiler
+
+https://github.com/ryansolid/solid A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+https://github.com/nextapps-de/mikado Mikado is the webs fastest template library for building user interfaces.
+
+https://github.com/baidu/san A fast, portable, flexible JavaScript component framework
+
+https://github.com/vuejs/vue-next Repo for Vue 3.0 (currently in beta)
+
+https://github.com/utkarshkukreti/reaml A React binding for (OCaml | ReasonML) + BuckleScript with compile time enforcement of the "Rules of Hooks"
+
+
+https://github.com/stimulusjs/stimulus A modest JavaScript framework for the HTML you already have
+
+https://github.com/alpinejs/alpine A rugged, minimal framework for composing JavaScript behavior in your markup.
+https://github.com/alpinejs/awesome-alpine
+
+https://github.com/umijs/umi 🌋 Pluggable enterprise-level react application framework.
+  https://umijs.org/docs
+
+### State management
+
+https://github.com/wooline/medux Modular state management, Suitable for various javascript frameworks (SSR)
+
+## Game 
+
+https://github.com/tobspr/shapez.io 
+
+## GraphQL 
+
+https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for Absinthe WS-based operations 
+
+## HTTP Client 
+
+https://github.com/jakubroztocil/httpie 
+
+## Misc
+
+https://github.com/Echobob/awesome-all All projects in the topic awesome scraped by See Urchin and post-processed by Firm.Watch AI/ML Filters
+
+https://github.com/lezer-parser/lezer Incremental parsing system
+
+https://github.com/turbolinks/turbolinks Turbolinks makes navigating your web application faster
+
+## Note Taking
+
+https://github.com/jrblevin/deft Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity
+
+## Office 
+
+### Slide 
+
+https://github.com/jacksingleton/hacker-slides A simple app that combines Ace Editor and RevealJS 
+
+## Parser
+
+https://github.com/acornjs/acorn A small, fast, JavaScript-based JavaScript parser
+
+## Programming Language 
+
+https://github.com/red/red Red is a next-generation programming language strongly inspired by Rebol 
+
+https://github.com/u2zv1wx/neut A dependently-typed programming language with compile-time malloc/free determination (Haskell)
+
+https://github.com/p-org/P P is a language for asynchronous event-driven programming. P allows the programmer to specify the system as a collection of interacting state machines, which communicate with each other using events.
+
+## Protocol 
+
+https://github.com/microsoft/msquic 
+
+## Proxy 
+
+https://github.com/v2ray/v2ray-core A platform for building proxies to bypass network restrictions 
+
+https://github.com/Cenmrev/V2RayX GUI for v2ray-core on macOS 
+
+## Scaffold
+
+https://github.com/laravel-frontend-presets/tall A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel
+
+## Science 
+
+https://github.com/biopython/biopython Official git repository for Biopython 
+
+## Search 
+
+https://github.com/BurntSushi/ripgrep line-oriented search tool that recursively searches your current directory for a regex pattern 
+
+https://github.com/junegunn/fzf A command-line fuzzy finder 
+
+## Static Site Generator
+
+https://github.com/vuejs/vitepress
+
+## Table 
+
+https://github.com/grid-js/gridjs Advanced Table Plugin 
+
+## Terminal 
+
+https://github.com/gnunn1/tilix A tiling terminal emulator for Linux using GTK+ 3 
+
+## UI Components 
+
+https://github.com/chakra-ui/chakra-ui ⚡️Simple, Modular & Accessible UI Components for your React Applications 
+
+## Virtual Machine 
+
+https://github.com/davidar/lljvm 
+
+## Workflow 
+
+https://github.com/PrefectHQ/prefect A modern data workflow platform 
+
+https://github.com/n8n-io/n8n Free and Open Workflow Automation Tool 
+
+https://github.com/argoproj/argo Argo Workflows: Get stuff done with Kubernetes.
