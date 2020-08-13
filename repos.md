@@ -14,6 +14,9 @@ https://github.com/aesmail/kaffy Powerfully simple admin package for phoenix app
 
 https://github.com/microsoft/coyote A set of libraries and tools for building reliable asynchronous software.
 
+## Backend Framework
+
+https://github.com/gofiber/fiber ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 
 ## Bundler 
 
@@ -21,13 +24,19 @@ https://github.com/pikapkg/snowpack A faster dev environment for modern web apps
 
 https://github.com/parcel-bundler/parcel 📦🚀 Blazing fast, zero configuration web application bundler 
 
+esbuilder
+
+Gulp
+
+Rollup
+
 ## CMS 
 
 ### headless 
 
 https://github.com/webiny/webiny-js Platform for building serverless applications and API (Node.js, React, GraphQL) 
 
-## CMS 
+### non-headless
 
 https://github.com/tinacms/tinacms Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js) 
 
@@ -38,6 +47,10 @@ https://github.com/dragonflyoss/Dragonfly Dragonfly is an intelligent P2P based 
 ## Comment 
 
 https://github.com/utterance/utterances A lightweight comments widget built on GitHub issues 
+
+## Compiler
+
+https://github.com/dotnet/roslyn The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 ## Database 
 
@@ -65,6 +78,16 @@ https://github.com/excalidraw/excalidraw Virtual whiteboard for sketching hand-d
 
 ## Document 
 
+https://github.com/freeCodeCamp/devdocs
+  
+  https://devdocs.io/puppeteer/
+  
+  https://github.com/waiting-for-dev/vim-www Toolbox to open & search URLs from vim
+
+  https://github.com/skeeto/devdocs-lookup Quick Emacs API lookup on devdocs.io
+
+
+
 https://github.com/kamranahmedse/developer-roadmap developer-roadmap 
 
 https://github.com/rstacruz/cheatsheets cheatsheets 
@@ -73,20 +96,27 @@ https://github.com/junaid33/opensource.builders Find open-source alternatives
 
 ## Documentation 
 
-https://github.com/mkdocs/mkdocs/ 
+https://github.com/peachdocs/peach Peach is a web server for multi-language, real-time synchronization and searchable documentation.
 
-https://www.mkdocs.org/ Project documentation with Markdown 
+https://github.com/mkdocs/mkdocs/ Project documentation with Markdown https://www.mkdocs.org/ 
 
 https://github.com/rstacruz/flatdoc Build sites fast from Markdown 
 
 https://github.com/slatedocs/slate Beautiful static documentation for your API 
 
 https://github.com/rust-lang/mdBook GitBook in Rust
-https://github.com/hackmdio/codimd CodiMD - Realtime collaborative markdown notes on all platforms.
-  https://hackmd.io/home
 
-## Editor 
+https://github.com/hackmdio/codimd CodiMD - Realtime collaborative markdown notes on all platforms. https://hackmd.io/home
 
+
+## Downloader
+
+https://github.com/iawia002/annie 👾 Fast, simple and clean video downloader
+
+https://github.com/rylio/ytdl YouTube download library and CLI written in Go
+https://github.com/soimort/you-get Dumb downloader that scrapes the web
+
+https://github.com/ytdl-org/youtube-dl Command-line program to download videos from YouTube.com and other video sites
 ### In Browser 
 
 https://github.com/prosemirror A toolkit for building rich-text editors on the web
@@ -133,6 +163,8 @@ https://github.com/forem/forem For empowering community 🌱
 
 ### CSS
 
+https://github.com/swlkr/ridgecss A maximalist css framework for making web apps fast
+
 ### JavaScript
 
 (surplus-v0.5.3-keyed	sinuous-v0.15.1-keyed	stage0-v0.0.2-keyed	solid-v0.17.2-keyed)
@@ -156,10 +188,12 @@ https://github.com/vuejs/vue-next Repo for Vue 3.0 (currently in beta)
 https://github.com/utkarshkukreti/reaml A React binding for (OCaml | ReasonML) + BuckleScript with compile time enforcement of the "Rules of Hooks"
 
 
+https://github.com/malinajs/malinajs Frontend compiler, inspired by Svelte
+
 https://github.com/stimulusjs/stimulus A modest JavaScript framework for the HTML you already have
 
 https://github.com/alpinejs/alpine A rugged, minimal framework for composing JavaScript behavior in your markup.
-https://github.com/alpinejs/awesome-alpine
+  https://github.com/alpinejs/awesome-alpine
 
 https://github.com/umijs/umi 🌋 Pluggable enterprise-level react application framework.
   https://umijs.org/docs
@@ -172,6 +206,8 @@ https://github.com/wooline/medux Modular state management, Suitable for various 
 
 https://github.com/tobspr/shapez.io 
 
+https://github.com/cloudwu/skynet/wiki Skynet is a lightweight framework designed for online game servers
+
 ## GraphQL 
 
 https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for Absinthe WS-based operations 
@@ -181,6 +217,10 @@ https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for 
 https://github.com/jakubroztocil/httpie 
 
 ## Misc
+
+https://github.com/git/git Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow
+
+https://github.com/muckSponge/MaterialFox A Material Design-inspired userChrome.css theme for Firefox
 
 https://github.com/Echobob/awesome-all All projects in the topic awesome scraped by See Urchin and post-processed by Firm.Watch AI/ML Filters
 
@@ -209,6 +249,8 @@ https://github.com/red/red Red is a next-generation programming language strongl
 https://github.com/u2zv1wx/neut A dependently-typed programming language with compile-time malloc/free determination (Haskell)
 
 https://github.com/p-org/P P is a language for asynchronous event-driven programming. P allows the programmer to specify the system as a collection of interacting state machines, which communicate with each other using events.
+
+https://github.com/vyzo/gerbil vyzo/gerbil: Gerbil Scheme
 
 ## Protocol 
 
@@ -241,6 +283,14 @@ https://github.com/vuejs/vitepress
 ## Table 
 
 https://github.com/grid-js/gridjs Advanced Table Plugin 
+
+## Template
+
+https://github.com/11ty/eleventy-base-blog
+
+## Template Engine
+
+https://github.com/mozilla/nunjucks mozilla/nunjucks: A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 
 ## Terminal 
 
