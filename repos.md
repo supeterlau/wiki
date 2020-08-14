@@ -306,6 +306,11 @@ https://github.com/valeriansaliou/sonic valeriansaliou/sonic: 🦔 Fast, lightwe
 
 https://github.com/asciimoo/searx asciimoo/searx: Privacy-respecting metasearch engine (https://searx.space/)
 
+## Serverless
+
+https://github.com/fnproject Fn Project
+  https://fnproject.io/ Fn Project - The Container Native Serverless Framework
+
 ## Static Site Generator
 
 https://github.com/vuejs/vitepress
