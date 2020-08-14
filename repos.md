@@ -30,6 +30,10 @@ Gulp
 
 Rollup
 
+## Browser Engine
+
+https://github.com/servo/servo servo/servo: The Servo Browser Engine
+
 ## CMS 
 
 ### headless 
@@ -275,6 +279,14 @@ https://github.com/biopython/biopython Official git repository for Biopython
 https://github.com/BurntSushi/ripgrep line-oriented search tool that recursively searches your current directory for a regex pattern 
 
 https://github.com/junegunn/fzf A command-line fuzzy finder 
+
+## Search Backend
+
+https://github.com/valeriansaliou/sonic valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
+## Search Engine
+
+https://github.com/asciimoo/searx asciimoo/searx: Privacy-respecting metasearch engine
 
 ## Static Site Generator
 
