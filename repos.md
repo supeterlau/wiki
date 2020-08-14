@@ -232,6 +232,10 @@ https://github.com/lezer-parser/lezer Incremental parsing system
 
 https://github.com/turbolinks/turbolinks Turbolinks makes navigating your web application faster
 
+## Monitor
+
+https://github.com/emcrisostomo/fswatch#usage emcrisostomo/fswatch: A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
+
 ## Note Taking
 
 https://github.com/jrblevin/deft Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity
@@ -286,7 +290,7 @@ https://github.com/valeriansaliou/sonic valeriansaliou/sonic: 🦔 Fast, lightwe
 
 ## Search Engine
 
-https://github.com/asciimoo/searx asciimoo/searx: Privacy-respecting metasearch engine
+https://github.com/asciimoo/searx asciimoo/searx: Privacy-respecting metasearch engine (https://searx.space/)
 
 ## Static Site Generator
 
