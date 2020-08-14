@@ -280,6 +280,8 @@ https://github.com/junegunn/fzf A command-line fuzzy finder
 
 https://github.com/vuejs/vitepress
 
+https://github.com/getzola/zola getzola/zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
 ## Table 
 
 https://github.com/grid-js/gridjs Advanced Table Plugin 
