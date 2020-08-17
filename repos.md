@@ -10,6 +10,9 @@ https://github.com/bastion-rs/bastion bastion-rs/bastion: Highly-available Distr
 
 https://github.com/actix/actix actix/actix: Actor framework for Rust.
 
+https://github.com/riker-rs/riker/ riker-rs/riker: Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
+  https://riker.rs/ Riker | Rust Actors
+
 https://github.com/topics/actor-model?l=rust actor-model · GitHub Topics
 
 ## API Client 
