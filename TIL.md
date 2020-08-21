@@ -1,3 +1,15 @@
+### 2020-08-22
+
+vim jump to right side 
+  brace
+  square bracket
+  parenthesis
+  key: %
+  https://stackoverflow.com/questions/13174735/move-to-next-open-or-closing-parenthesis-in-vim
+   https://vim.fandom.com/wiki/Moving_to_matching_braces
+
+erlang erl exit: q() ( init.stop() )
+
 ### 2020-08-14
 
 https://unix.stackexchange.com/questions/137366/stdout-is-empty
