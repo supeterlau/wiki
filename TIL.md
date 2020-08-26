@@ -1,3 +1,20 @@
+### 2020-08-26
+
+Elixir IEx 多行
+  
+  (unless Integer.is_odd(2) do
+    IO.puts "DONE"
+  end)
+
+### 2020-08-25
+
+MySQL row size max : 65,535 bytes
+  所有 column 总大小
+
+  解决方法
+    1. 存在外部
+    2. 更换存储引擎 Antelope to Barracuda
+
 ### 2020-08-22
 
 vim jump to right side 
