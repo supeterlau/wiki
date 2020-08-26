@@ -6,6 +6,8 @@ Elixir IEx 多行
     IO.puts "DONE"
   end)
 
+  https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b A Collection of Tips for Elixir’s Interactive Shell (IEx) | by モハマド Meraj モラー | ITNEXT
+
 ### 2020-08-25
 
 MySQL row size max : 65,535 bytes
