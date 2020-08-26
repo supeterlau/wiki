@@ -184,6 +184,16 @@ https://github.com/forem/forem For empowering community 🌱
 
 ### CSS
 
+https://github.com/topics/css-framework
+
+https://purecss.io/ Pure
+
+https://github.com/siimple/siimple siimple/siimple: The minimal CSS toolkit for flat and clean designs
+
+https://github.com/ajusa/lit ajusa/lit: World's smallest responsive 🔥 css framework (395 bytes)
+
+https://github.com/tailwindlabs/tailwindcss tailwindlabs/tailwindcss: A utility-first CSS framework for rapid UI development.
+
 https://github.com/swlkr/ridgecss A maximalist css framework for making web apps fast
 
 ### JavaScript
@@ -239,6 +249,8 @@ https://github.com/jakubroztocil/httpie
 
 ## Misc
 
+https://github.com/daveearley/screenshot.rocks daveearley/screenshot.rocks: Create beautiful mobile & browser mockups from screenshots
+  https://screenshot.rocks Screenshot.Rocks | Create mobile or browser mockups from screenshots
 https://github.com/git/git Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow
 
 https://github.com/muckSponge/MaterialFox A Material Design-inspired userChrome.css theme for Firefox
@@ -286,6 +298,10 @@ https://github.com/microsoft/msquic
 https://github.com/v2ray/v2ray-core A platform for building proxies to bypass network restrictions 
 
 https://github.com/Cenmrev/V2RayX GUI for v2ray-core on macOS 
+
+## ORM
+
+https://github.com/facebook/ent facebook/ent: An entity framework for Go
 
 ## Scaffold
 
