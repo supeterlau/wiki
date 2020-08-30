@@ -1,3 +1,34 @@
+### 2020-08-29
+
+https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/ 8 npm Tricks You Can Use to Impress Your Colleagues
+
+  List installed packages
+    
+    npm ls --depth 0
+
+    globally-installed npm ls -g --depth 0 
+
+  open repo
+    npm repo
+    npm home
+    npm docs
+
+  pre / post command
+    custom
+    precustom pre-custom
+    postcustom post-custom
+    install
+    pre-install
+
+  bump version
+    npm version with major, minor or patch
+
+https://docs.npmjs.com/misc/config#browser
+  browser
+  Default: OS X: "open", Windows: "start", Others: "xdg-open"
+  Type: String
+  The browser that is called by the npm docs command to open websites.
+
 ### 2020-08-26
 
 技术标准
