@@ -1,3 +1,13 @@
+### 2020-08-30
+
+Top 10 History Command:
+
+  history | awk '{print $2}' | sort | uniq -c | sort -nr | head -n 10
+
+VSCode:
+
+  toggle terminal: CMD+J
+
 ### 2020-08-29
 
 https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/ 8 npm Tricks You Can Use to Impress Your Colleagues
