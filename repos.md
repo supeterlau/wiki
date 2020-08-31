@@ -293,6 +293,9 @@ yalc
 
 https://github.com/acornjs/acorn A small, fast, JavaScript-based JavaScript parser
 
+https://github.com/pest-parser/pest pest-parser/pest: The Elegant Parser
+  https://pest.rs/ pest. The Elegant Parser
+
 ## Programming Language 
 
 https://github.com/red/red Red is a next-generation programming language strongly inspired by Rebol 
