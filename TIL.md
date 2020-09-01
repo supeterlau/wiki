@@ -1,3 +1,16 @@
+
+### 2020-09-01
+
+pug < my.pug > my.html
+
+.md -> feed.html/feed.xml <-> feed.xml for dev.to
+Golang 
+  markdown
+    https://github.com/yuin/goldmark yuin/goldmark: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+    https://csdcorp.com/blog/coding/markdown-parsing-in-dart/ Markdown Parsing in Dart - Corner Software
+    https://www.sunzhongwei.com/golang-use-blackfriday-convert-markdown-to-html Golang 使用 blackfriday 将 Markdown 转换为 HTML - golang - 大象笔记
+    https://www.splunk.com/en_us/blog/security/use-ci-to-automatically-catch-dead-links-in-your-github-project.html Use CI to Automatically Catch Dead Links in Your GitHub Project
+    
 ### 2020-08-30
 
 Top 10 History Command:

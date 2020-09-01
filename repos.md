@@ -56,6 +56,10 @@ Rollup
 
 https://github.com/servo/servo servo/servo: The Servo Browser Engine
 
+## Cheatsheets
+
+https://github.com/tldr-pages/tldr tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands
+
 ## CMS 
 
 ### headless 
@@ -295,6 +299,8 @@ https://github.com/acornjs/acorn A small, fast, JavaScript-based JavaScript pars
 
 https://github.com/pest-parser/pest pest-parser/pest: The Elegant Parser
   https://pest.rs/ pest. The Elegant Parser
+
+https://github.com/yuin/goldmark yuin/goldmark: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 
 ## Programming Language 
 
