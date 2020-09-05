@@ -85,8 +85,7 @@ https://github.com/dotnet/roslyn The Roslyn .NET compiler provides C# and Visual
 ## Database 
 
 https://github.com/dgraph-io/dgraph Fast, Distributed Graph Database 
-
-https://dgraph.io/ 
+  https://dgraph.io/ 
 
 https://github.com/dgraph-io/badger Fast key-value DB in Go.  
 
@@ -185,6 +184,10 @@ https://github.com/onivim/oni2 Native, lightweight modal code editor (Onivim 2 i
 
 https://github.com/codesandbox/ot_ex an implementation of operational transformation for strings (Elixir) 
 
+## Editor
+
+https://github.com/mogenslund/liquid mogenslund/liquid: Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
+
 ## Forum
 
 https://github.com/forem/forem For empowering community 🌱
@@ -255,6 +258,12 @@ https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for 
 ## HTTP Client 
 
 https://github.com/jakubroztocil/httpie 
+
+## LSP
+
+https://github.com/elixir-lsp/elixir-ls elixir-lsp/elixir-ls: A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"
+
+https://github.com/emacs-lsp/lsp-mode emacs-lsp/lsp-mode: Emacs client/library for the Language Server Protocol
 
 ## Misc
 
