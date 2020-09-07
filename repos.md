@@ -52,6 +52,10 @@ Gulp
 
 Rollup
 
+## Business Intelligence
+
+https://github.com/metabase/metabase metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company
+
 ## Browser Engine
 
 https://github.com/servo/servo servo/servo: The Servo Browser Engine
@@ -92,6 +96,12 @@ https://github.com/dgraph-io/badger Fast key-value DB in Go.
 https://github.com/fastio/1store NoSQL data store using the SEASTAR framework, compatible with Redi 
 
 https://github.com/etcd-io/etcd Distributed reliable key-value store for the most critical data of a distributed system 
+
+https://github.com/juji-io/datalevin juji-io/datalevin: A simple, fast and durable Datalog database
+
+https://github.com/lealone/Lealone lealone/Lealone: 极具创新的面向单机与分布式OLTP场景的异步化NewSQL关系数据库
+
+http://www.h2database.com/html/main.html H2 Database Engine
 
 ## Demo 
 
