@@ -32,6 +32,11 @@ https://github.com/listen1 Music API
 
 https://github.com/aesmail/kaffy Powerfully simple admin package for phoenix applications 
 
+
+## Algorithm
+
+https://github.com/backtrace-labs/umash backtrace-labs/umash: UMASH: a fast enough hash and fingerprint with collision bounds
+
 ## Asynchronous
 
 https://github.com/microsoft/coyote A set of libraries and tools for building reliable asynchronous software.
@@ -139,6 +144,8 @@ https://github.com/rstacruz/cheatsheets cheatsheets
 https://github.com/junaid33/opensource.builders Find open-source alternatives 
 
 ## Documentation 
+
+https://github.com/go101/gold go101/gold: An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 
 https://github.com/peachdocs/peach Peach is a web server for multi-language, real-time synchronization and searchable documentation.
 
@@ -270,6 +277,10 @@ https://github.com/cloudwu/skynet/wiki Skynet is a lightweight framework designe
 
 https://github.com/absinthe-graphql/absinthe-socket Core JavaScript support for Absinthe WS-based operations 
 
+## GUI
+
+https://github.com/lvgl/lvgl lvgl/lvgl: Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+
 ## HTTP Client 
 
 https://github.com/jakubroztocil/httpie 
@@ -384,9 +395,19 @@ https://github.com/vuejs/vitepress
 https://github.com/getzola/zola getzola/zola: A fast static site generator in a single binary with everything built-in.    
   https://www.getzola.org
 
+## Resource
+
+https://github.com/huangsam/ultimate-python huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.
+
+https://github.com/fighting41love/funNLP fighting41love/funNLP: 几乎最全的中文NLP资源库
+
+https://github.com/iggredible/Learn-Vim iggredible/Learn-Vim: A book for learning the Vim editor the smart way.
+
 ## Table 
 
 https://github.com/grid-js/gridjs Advanced Table Plugin 
+
+https://github.com/MysteryVaibhav/leetcode_company_wise_questions MysteryVaibhav/leetcode_company_wise_questions: This is a repository containing the list of company wise questions available on leetcode premium
 
 ## Template
 
