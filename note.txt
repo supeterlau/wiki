@@ -1,0 +1,19 @@
+## CrossPlatform
+
+- haxe
+- kotlin (java)
+- deno webview
+- vlang 
+  https://github.com/vlang/ui
+  https://vlang.io/
+- redlang
+- ocaml revery
+- reactnative
+- flutter
+- go 
+- rust
+
+Not good enough
+- electron
+- proton-native
+- nodegui
