@@ -6,6 +6,9 @@ GGV 纪源资本
 红杉资本
   https://www.sequoiacap.com/china/
 
+高瓴资本
+  https://www.hillhousecap.com
+
 Y Combinator
   https://www.ycombinator.com
 
@@ -20,3 +23,10 @@ Google Venture
 
 Microsoft for Startups 微软加速器
   https://startups.microsoft.com/zh-cn/
+
+
+Refs:
+
+https://xueqiu.com/ 雪球
+
+https://www.itjuzi.com/ IT 桔子

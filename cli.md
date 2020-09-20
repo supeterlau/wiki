@@ -24,3 +24,7 @@ non-GNU find
 https://superuser.com/a/298173
 
 find /wherever/your/files/hide -type f -exec ls -1rt "{}" +;
+
+# cp 
+
+https://superuser.com/questions/114195/how-to-copy-a-file-in-unix-without-altering-its-last-modified-time/114198 timestamp - How to copy a file in unix without altering its last modified time? - Super User
