@@ -218,6 +218,10 @@ https://github.com/forem/forem For empowering community 🌱
 
 ### CSS
 
+https://github.com/lukeed/clsx/ lukeed/clsx: A tiny (228B) utility for constructing `className` strings conditionally.
+
+https://github.com/JedWatson/classnames JedWatson/classnames: A simple javascript utility for conditionally joining classNames together
+
 https://github.com/topics/css-framework
 
 https://purecss.io/ Pure
