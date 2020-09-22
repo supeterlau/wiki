@@ -220,6 +220,8 @@ https://github.com/forem/forem For empowering community 🌱
 
 ### CSS
 
+https://github.com/css-modules/css-modules css-modules/css-modules: Documentation about css-modules
+
 https://github.com/lukeed/clsx/ lukeed/clsx: A tiny (228B) utility for constructing `className` strings conditionally.
 
 https://github.com/JedWatson/classnames JedWatson/classnames: A simple javascript utility for conditionally joining classNames together
