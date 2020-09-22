@@ -47,6 +47,8 @@ https://github.com/gofiber/fiber ⚡️ Fiber is an Express inspired web framewo
 
 ## Bundler 
 
+https://github.com/neutrinojs/webpack-chain neutrinojs/webpack-chain: A chaining API to generate and simplify the modification of Webpack configurations.
+
 https://github.com/pikapkg/snowpack A faster dev environment for modern web apps 
 
 https://github.com/parcel-bundler/parcel 📦🚀 Blazing fast, zero configuration web application bundler 
