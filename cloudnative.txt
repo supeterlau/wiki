@@ -1,0 +1,26 @@
+https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/ 5 Container Alternatives to Docker - Container Journal
+
+Docker
+  https://www.freecodecamp.org/news/the-docker-handbook/ The Docker Handbook
+
+Podman (daemonless container engine)
+
+Kubernetes
+  Helm
+  https://www.freecodecamp.org/news/the-kubernetes-handbook/ The Kubernetes Handbook
+  https://www.freecodecamp.org/news/an-introduction-to-the-helm-package-manager-for-kubernetes/ An Introduction to the Helm Package Manager for Kubernetes
+  https://www.katacoda.com/courses/kubernetes Learn Kubernetes using Interactive Browser-Based Labs | Katacoda
+  https://learnk8s.io/ Learnk8s — the Kubernetes training company
+
+hashicorp terraform
+
+Envoy envoyproxy.io
+
+https://github.com/hyscale/hyscale#readme hyscale/hyscale: HyScale is an Application Centric Abstraction Framework over K8s.
+
+https://github.com/condense9/teal-lang condense9/teal-lang: Python-powered serverless data workflows, zero IAC.
+
+Pulumi Modern Infrastructure as Code.
+  https://www.pulumi.com/ Pulumi - Modern Infrastructure as Code
+
+HashiCorp
