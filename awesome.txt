@@ -1,0 +1,76 @@
+## Golang 
+
+https://github.com/avelino/awesome-go
+
+  https://github.com/maxence-charriere/go-app Write PWA 
+
+  ✅ https://github.com/getlantern/systray Cross platform Go library to place an icon and menu in the notification area
+
+  https://github.com/shurcooL/trayhost
+
+  https://github.com/go-vgo/robotgo
+
+  https://github.com/wailsapp/wails/cmd/wails
+    https://wails.app/ 
+
+https://github.com/goproxyio/goproxy A global proxy for Go modules
+
+## Ruby 
+
+  https://github.com/pry/pry
+
+    gem install pry
+
+https://github.com/KartikChugh/Otto Otto：智能聊天应用
+https://github.com/github/roadmap 了解 GitHub 接下来的一些产品进展
+
+https://github.com/robinsloan/perfect-edition Perfect Edition - A lightweight, responsive web e-book template' by Robin Sloan GitHub
+
+https://github.com/phoenixframework/phoenix Peace-of-mind from prototype to production 
+
+https://github.com/supabase/realtime Listen to your PostgreSQL database in realtime via websockets. Built with Elixir. 
+
+https://github.com/supabase/postgres/ Unmodified Postgres with some useful plugins 
+
+  https://app.supabase.io/ `supabase` 
+  https://supabase.io/humans.txt
+
+
+ https://github.com/cainophile/cainophile stream every change made to your PostgreSQL database
+
+grpc
+  https://developers.google.com/protocol-buffers/
+
+https://github.com/tony612/protobuf-elixir tony612/protobuf-elixir: A pure Elixir implementation of Google Protobuf
+
+https://github.com/bitwalker/exprotobuf bitwalker/exprotobuf: Protocol Buffers in Elixir made easy!
+
+https://github.com/tony612/google-protos tony612/google-protos: Elixir files generated from Google's protobuf files using protobuf-elixir
+
+https://github.com/protocolbuffers/protobuf/tree/master/src/google/protobuf protobuf/src/google/protobuf at master · protocolbuffers/protobuf
+
+https://github.com/tomas-abrahamsson/gpb tomas-abrahamsson/gpb: A Google Protobuf implementation for Erlang
+
+# Elixir / Erlang
+
+https://github.com/keathley/finch keathley/finch: Elixir HTTP Client focused on performance
+
+https://github.com/beam-telemetry/telemetry beam-telemetry/telemetry: Dynamic dispatching library for metrics and instrumentations.
+
+https://github.com/boydm/scenic boydm/scenic: Core Scenic library. With it you can build applications that operate identically across all supported operating systems, including MacOS, Ubuntu, Nerves/Linux, and more.
+
+https://github.com/cdegroot/uderzo_poncho cdegroot/uderzo_poncho: Poncho-style project for Uderzo graphics for Elixir
+
+https://github.com/erlang/otp erlang/otp: Erlang/OTP
+
+https://github.com/gohugoio/hugo gohugoio/hugo: The world’s fastest framework for building websites.
+
+
+https://dev.to/napicella/linux-terminals-tty-pty-and-shell-part-2-2cb2 Linux terminals, tty, pty and shell - part 2 - DEV Community 👩‍💻👨‍💻
+
+https://github.com/creack/pty/blob/master/pty_darwin.go pty/pty_darwin.go at master · creack/pty
+https://github.com/creack/pty/blob/master/pty_linux.go pty/pty_linux.go at master · creack/pty
+
+https://stackoverflow.com/questions/2975733/reading-from-a-pty c - Reading from a pty - Stack Overflow
+
+
