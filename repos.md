@@ -260,6 +260,7 @@ https://github.com/vuejs/vue-next Repo for Vue 3.0 (currently in beta)
 
 https://github.com/utkarshkukreti/reaml A React binding for (OCaml | ReasonML) + BuckleScript with compile time enforcement of the "Rules of Hooks"
 
+https://github.com/sveltejs/svelte sveltejs/svelte: Cybernetically enhanced web apps
 
 https://github.com/malinajs/malinajs Frontend compiler, inspired by Svelte
 
@@ -448,3 +449,8 @@ https://github.com/PrefectHQ/prefect A modern data workflow platform
 https://github.com/n8n-io/n8n Free and Open Workflow Automation Tool 
 
 https://github.com/argoproj/argo Argo Workflows: Get stuff done with Kubernetes.
+
+
+## Z
+
+https://github.com/apache/rocketmq apache/rocketmq: Mirror of Apache RocketMQ
