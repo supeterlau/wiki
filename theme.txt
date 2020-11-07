@@ -1,0 +1,11 @@
+Hugo
+
+  https://github.com/amzrk2/hugo-theme-fuji/ amzrk2/hugo-theme-fuji: A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。
+
+Hexo
+
+Vuepress
+
+Vitepress
+
+Gatspy
