@@ -1,0 +1,7 @@
+Rust / Golang
+  shell
+  emacs
+  vim
+  browser
+  database
+  os
