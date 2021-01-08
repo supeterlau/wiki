@@ -272,9 +272,13 @@ https://github.com/alpinejs/alpine A rugged, minimal framework for composing Jav
 https://github.com/umijs/umi 🌋 Pluggable enterprise-level react application framework.
   https://umijs.org/docs
 
-### State management
+### State Management
 
 https://github.com/wooline/medux Modular state management, Suitable for various javascript frameworks (SSR)
+
+### WASM
+
+https://github.com/wasmerio/wasmer wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 ## Game 
 
