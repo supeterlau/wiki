@@ -1,0 +1,5 @@
+https://squidfunk.github.io/mkdocs-material/ Material for MkDocs - Material for MkDocs
+
+https://observablehq.com/ Observable - Make sense of the world with data, together / Observable
+
+https://www.amcharts.com/ JavaScript Charts & Maps - amCharts
