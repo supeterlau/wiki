@@ -238,6 +238,10 @@ https://github.com/tailwindlabs/tailwindcss tailwindlabs/tailwindcss: A utility-
 
 https://github.com/swlkr/ridgecss A maximalist css framework for making web apps fast
 
+### Icon
+
+https://zhuanlan.zhihu.com/p/345070875 字节跳动的这款图标库和阿里杠上了! - 知乎
+
 ### JavaScript
 
 (surplus-v0.5.3-keyed	sinuous-v0.15.1-keyed	stage0-v0.0.2-keyed	solid-v0.17.2-keyed)
