@@ -462,3 +462,5 @@ https://github.com/argoproj/argo Argo Workflows: Get stuff done with Kubernetes.
 ## Z
 
 https://github.com/apache/rocketmq apache/rocketmq: Mirror of Apache RocketMQ
+
+https://github.com/Hidove/image Hidove/image: 多接口分发图床
