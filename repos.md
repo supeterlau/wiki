@@ -276,6 +276,10 @@ https://github.com/alpinejs/alpine A rugged, minimal framework for composing Jav
 https://github.com/umijs/umi 🌋 Pluggable enterprise-level react application framework.
   https://umijs.org/docs
 
+### JavaScript Libs
+
+https://joi.dev/ joi.dev
+
 ### State Management
 
 https://github.com/wooline/medux Modular state management, Suitable for various javascript frameworks (SSR)
