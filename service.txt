@@ -5,3 +5,7 @@ https://bintray.com/ Bintray - Download Center Automation & Distribution w. Priv
 - serverless
 
 https://nimbella.com/ The simplest way to build and run serverless applications.
+
+- service status
+
+https://uptimerobot.com/ The world's leading uptime monitoring service
