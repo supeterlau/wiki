@@ -1,0 +1,33 @@
+# Prover / Proof Assistant
+
+https://en.wikipedia.org/wiki/Proof_assistant
+https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025 Proof assistants: History, ideas and future
+http://www-oldurls.inf.ethz.ch/personal/fukudak/lect/mssemi/reports/09_rep_PatrickSchnider.pdf An Introduction to Proof Assistants
+
+https://github.com/aya-prover/aya-dev
+https://github.com/aya-prover
+
+https://github.com/JetBrains/Arend
+https://arend-lang.github.io/
+
+https://hol-theorem-prover.org/
+
+https://coq.inria.fr/
+
+# type theory
+
+https://en.wikipedia.org/wiki/Type_theory
+https://jozefg.bitbucket.io/posts/2015-08-14-learn-tt.html
+	https://github.com/jozefg/learn-tt
+https://news.ycombinator.com/item?id=8780098 So you want to learn type theory (purelytheoretical.com)
+https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf
+https://www.quora.com/How-do-I-learn-type-theory
+https://www.cis.upenn.edu/~bcpierce/tapl/index.html Types and Programming Languages
+https://math.stackexchange.com/questions/1707117/type-theory-for-beginners
+
+https://en.wikipedia.org/wiki/Type_system
+
+https://ncatlab.org/nlab/show/homotopy+type+theory
+https://homotopytypetheory.org/book/
+https://en.wikipedia.org/wiki/Homotopy_type_theory
+

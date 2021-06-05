@@ -1,0 +1,9 @@
+http://www.h2database.com/
+https://www.tutorialspoint.com/h2_database/index.htm
+https://github.com/codefollower/H2-Research
+
+https://github.com/lealone/Lealone
+
+Clickhouse
+
+Cassandra

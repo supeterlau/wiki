@@ -1,11 +1,17 @@
-- 二进制分发
+- distribution 
+
+二进制分发
 
 https://bintray.com/ Bintray - Download Center Automation & Distribution w. Private Repositories
-
 - serverless
 
 https://nimbella.com/ The simplest way to build and run serverless applications.
 
-- service status
+- monitor
 
 https://uptimerobot.com/ The world's leading uptime monitoring service
+
+- online dev env
+
+https://www.gitpod.io
+  https://www.gitpod.io/pricing

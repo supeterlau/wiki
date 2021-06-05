@@ -422,6 +422,7 @@ https://github.com/getzola/zola getzola/zola: A fast static site generator in a 
 
 
 https://cobalt-org.github.io/ Cobalt::A static site generator
+
 ## Resource
 
 https://github.com/huangsam/ultimate-python huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.
